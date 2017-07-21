@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: justify;
+}
+
+
+.cabecera{
+    width: 100%;
+    height: 160px;
+    margin-top: -20px;
+
+    background: #01467a;
+    background: -moz-linear-gradient(left, #01467a 0%, #002e53 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, #01467a), color-stop(100%, #002e53));
+    background: -webkit-linear-gradient(left, #01467a 0%, #002e53 100%);
+    background: -o-linear-gradient(left, #01467a 0%, #002e53 100%);
+    background: -ms-linear-gradient(left, #01467a 0%, #002e53 100%);
+    background: linear-gradient(to right, #01467a 0%, #002e53 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#01467a', endColorstr='#002e53', GradientType=1 );
+}
+
+.cabecera img{
+    margin-top: 30px;
+}
+
+.cabecera #division{
+   margin-top: 5px;
+}
+
+#division{
+    width: 100%;
+    height: 5px;
+}
+
+.footer #division{
+    margin-top: -5px;
+    margin-left: 0;
+    width: 100%;
+}
+
+
+.cuerpo{
+    margin-top: 30px;
+}
+
+.slider{
+    background: white;
+    margin: auto;
+    height: 370px;
+}
+
+.otros{
+    width: 260px;;
+    margin: auto;
+    display: block;
+    background: #F3E2A9;
+}
+
+
+.otros img{
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin: 5px auto;
+    float: right;
+}
+
+.bloque_otros{
+    float: right
+}
+
+div ul li{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
+
+div ul li{
+    text-decoration: none;
+    list-style: none;
+    font-size: 16px;
+}
+
+.eventos .noticias{
+    margin-top: 5px;
+    display: block;
+    background: #F3E2A9;
+    height: 300px;
+}
+
+.eventos h4{
+    margin-bottom: 0;
+}
+
+.noticias h4{
+    margin-bottom: 0;
+}
+
+.footer{
+    margin-top: 30px;
+    width: 100%;
+    height: 350px;
+    color: white;
+
+    background: #01467a;
+    background: -moz-linear-gradient(left, #01467a 0%, #002e53 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, #01467a), color-stop(100%, #002e53));
+    background: -webkit-linear-gradient(left, #01467a 0%, #002e53 100%);
+    background: -o-linear-gradient(left, #01467a 0%, #002e53 100%);
+    background: -ms-linear-gradient(left, #01467a 0%, #002e53 100%);
+    background: linear-gradient(to right, #01467a 0%, #002e53 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#01467a', endColorstr='#002e53', GradientType=1 );
+}
+
+.footer img{
+    margin: 20px auto;
+}
+
+.footer .contactenos input{
+    margin: 5px auto;
+}
+
+.footer .contactenos textarea{
+    margin: 5px auto;
+}
+
+.footer .contactenos button{
+    margin: 5px auto;
+}
+
+.registro{
+    margin-top: 30px;
+    padding: auto;
+}
+
+#btnBuscar #btnRegistrar{
+	display: inline-block;
+}
+
+
+
+
